@@ -15,8 +15,8 @@ library(ALDEx2)
 data(selex)
 ```
 
-Principle component analysis is a method to simplify complex datasets by finding linear combinations of features that explain the variance in the dataset. It is very sensitive to non-linearity in the dataset.
+Principal component analysis is a method to simplify complex datasets by finding linear combinations of features that explain the variance in the dataset. It is very sensitive to non-linearity in the dataset.
 
-Principle co-ordinate analysis is a method to identify distance relationships between samples. It is similarly sensitive to non-linearity, but has the advantage of being useful with any distance (or dissimilarity metric).
+Principal co-ordinate analysis is a method to identify distance relationships between samples. It is similarly sensitive to non-linearity, but has the advantage of being useful with any distance (or dissimilarity metric).
 
 
